@@ -1,3 +1,8 @@
+// Hery Ratsimihah
+// Java Homework Assignment #2
+// Version 1.0
+// historicalData.java
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
