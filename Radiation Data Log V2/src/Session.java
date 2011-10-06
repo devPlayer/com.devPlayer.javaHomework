@@ -1,3 +1,8 @@
+// Hery Ratsimihah
+// Java Homework Assignment #2
+// Version 1.0
+// Session.java
+
 import java.util.ArrayList;
 
 public class Session {
