@@ -1,3 +1,8 @@
+// Hery Ratsimihah
+// Java Homework Assignment #2
+// Version 1.0
+// mainWindow.java
+
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
